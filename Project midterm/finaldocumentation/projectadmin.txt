@@ -1,0 +1,4 @@
+zoya,naveed,18,59,5,july,2021,NUTRITION AND DIETETICS,Professor Amna Zafar,3000,4,
+fatima,awais,19,57,5,july,2021,NUTRITION AND DIETETICS,Doctor Ilyas Ahmed,2000,5,
+jia,iqbal,48,47,5,august,2022,GYNECOLOGY DEPARTMENT,Professor Nadia Khan,3000,7,
+fth,yf,50,78,5,july,2022,PSYCOLOGICAL COUNSELLING DEPARTMENT,Professor Aiysha Tahir,6000,5,
